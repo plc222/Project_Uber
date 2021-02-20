@@ -1,0 +1,23 @@
+.contacts {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background: url(../../img/contacts/map.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+.contacts__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.contacts__desc {
+   bottom: 50%;
+}
+.contacts__desc a {
+    font-size: 18px;
+    font-weight: 300;
+    color: var(--btn);
+    text-transform: uppercase;
+}

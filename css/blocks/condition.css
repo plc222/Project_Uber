@@ -1,0 +1,46 @@
+.condition {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.condition__title {
+    font-size: 21px;
+    color: var(--btn);
+    font-weight: 500;
+}
+.demand__title {
+    font-size: 21px;
+    color: var(--red);
+    font-weight: 500;
+}
+.condition__list {
+    list-style: none
+}
+.condition__list li {
+    background-image: url(../../img/request/checked_blue.svg);
+    background-repeat: no-repeat;
+	background-position: left top;
+    padding-left: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--textColor);
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+.condition__desc {
+    font-size: 18px;
+    color: var(--textColor);
+    font-weight: 500;
+}
+.demand__list {
+    list-style: none
+}
+.demand__list li {
+    background-image: url(../../img/request/checked_red.svg);
+    background-repeat: no-repeat;
+	background-position: left top;
+    padding-left: 30px;
+    font-size: 16px;
+    color: var(--textColor);
+    font-weight: 300;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,17 @@
+/*
+font-family: 'Museo Sans';
+*/
+* {
+	box-sizing: border-box;
+	font-family: 'Museo Sans';
+}
+
+:root {
+	--mainColor: #eff0f7;
+	--btn: #24b3ce;
+	--btnColor: #fff;
+	--textColor: #212121;
+	--black: #252525;
+	--red: #ff5454;
+
+}

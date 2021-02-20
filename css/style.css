@@ -1,0 +1,20 @@
+@import url("core.css");
+@import url("./blocks/hero.css");
+@import url("./blocks/header.css");
+@import url("./blocks/promo.css");
+@import url("./blocks/subheader.css");
+@import url("./blocks/advantages.css");
+@import url("./blocks/feature.css");
+@import url("./blocks/choice.css");
+@import url("./blocks/condition.css");
+@import url("./blocks/contacts.css");
+@import url("./blocks/footer.css");
+
+
+
+
+
+
+* {
+    font-family: 'Museo Sans', sans-serif;
+}

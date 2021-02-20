@@ -1,0 +1,7 @@
+ 
+.hero {
+    padding-bottom: 90px;
+    background: url(../../img/hero/hero_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

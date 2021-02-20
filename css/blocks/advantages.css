@@ -1,0 +1,98 @@
+.advantages {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.overhead {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.overhead__subtitle {
+    padding: 5px 15px;
+    color: var(--mainColor);
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 300;
+    background: #212121;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.overhead__title {
+    color: var(--textColor);
+    font-size: 38px;
+    line-height: 48px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.overhead__desc {
+    color: var(--textColor);
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;
+  
+}
+.privileg {
+    padding-left: 110px;
+    min-height: 85px;
+  
+  
+}
+.privileg--1 {
+    background-image: url(../../img/advantages/adv-1.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+}
+.privileg--2 {
+    background-image: url(../../img/advantages/adv-2.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--3 {
+    background-image: url(../../img/advantages/adv-3.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--4 {
+    background-image: url(../../img/advantages/adv-4.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--5 {
+    background-image: url(../../img/advantages/adv-5.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--6 {
+    background-image: url(../../img/advantages/adv-6.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--7 {
+    background-image: url(../../img/advantages/adv-7.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+.privileg--8 {
+    background-image: url(../../img/advantages/adv-8.png);
+    background-repeat: no-repeat;
+	background-position: left top;
+    
+}
+
+.privileg__title {
+    color: var(--btn);
+    font-size: 21px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.privileg__text {
+    color: var(--textColor);
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 300;
+}
